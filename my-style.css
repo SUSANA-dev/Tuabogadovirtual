@@ -1,4 +1,8 @@
 
+.my-img-encabezado{
+    background-image: url(https://www.lawrencerealestateonline.com/wp-content/uploads/2018/01/cropped-Chicargo-Skyline-1600-x-400-lq.jpg);
+
+}
 .my-title{
     display: flex;
     align-items: center;
@@ -62,9 +66,9 @@
     align-items: center;
     margin-top: 80px;
     margin-bottom: 80px;
-    width: 100%;
+    width: 80%;
     height: 250px;
-    border: 2px gold solid;
+    /* border: 2px gold solid; */
 
 
 }
@@ -75,7 +79,7 @@
     justify-content: center;
     width: 80%;
     height: 250px;
-    border: 2px green solid;  
+    /* border: 2px green solid;   */
 
 }
 
