@@ -121,14 +121,18 @@
 
 }  
 body{
-    background-color: black;
+    background-color: white;
 }
 h1{
-   color: white ;
+   color: black ;
 }
 p{
-    color: white;
+    color: black;
 }
 ul{
-    color: white;
+    color: black;
+}
+.quienessomos{
+    display: flex;
+    justify-content: space-between;
 }
