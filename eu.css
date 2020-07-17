@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+
+*{
+    font-family: 'Merriweather', serif;
+}
 .Encabezado{
     display: flex;
     justify-content: center;
@@ -148,8 +153,8 @@ ul{
 .logo{
     width: 140px ;
     height: 140px;
-    margin-left: 480px;
+    margin-left: 600px;
 }
 h6{
-    margin-left: 510px;
+    margin-left: 630px;
 }
