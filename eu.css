@@ -7,6 +7,7 @@
     border: 2px black solid;
     text-align: center;
 }
+
 .my-tam{
    
     height: auto;
@@ -143,4 +144,12 @@ ul{
     margin-right: 30px;
     margin-bottom: 30px;
     
+}
+.logo{
+    width: 140px ;
+    height: 140px;
+    margin-left: 480px;
+}
+h6{
+    margin-left: 510px;
 }
