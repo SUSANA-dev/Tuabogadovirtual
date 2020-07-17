@@ -1,0 +1,62 @@
+.Encabezado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 120px;
+    border: 2px black solid;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+}
+
+.my-carousel {height: auto;
+    max-width: 1600px;
+
+}
+
+
+
+.cont1{
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+    height: 40%;
+    font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+}
+
+.cont3{justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+    height: 40%;
+    font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+}
+
+.cont2{
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+    height: 40%;
+    font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+}
+
+
+.formulario{
+    justify-content: center;
+    width: 100%;
+    margin-top: 10px;
+    height: 40%;
+    font-family: 'Lato', sans-serif;
+font-family: 'Merriweather', serif;
+}
+
+
+
+.img-responsive{height:100%;
+    width: auto;
+}
+
+
